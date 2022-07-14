@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MCGamesEU**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, MySQL**
 
 - 👀 I’m interested in **Minecraft Development**
 
