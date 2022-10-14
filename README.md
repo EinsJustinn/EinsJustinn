@@ -2,13 +2,13 @@
 <h3 align="center">I Programming Minecraft Plugins</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darksrising&label=Profile%20views&color=0e75b6&style=flat" alt="darksrising" /> </p>
 
-- 🔭 I’m currently working on **VetroxMC**
+- 🔭 I’m currently working on **None**
 
 - 💬 Ask me about **Java, MySQL**
 
 - 👀 I’m interested in **Minecraft Development**
 
-- 📫 How to reach me **nachbauserver@gmail.com**
+- 📫 How to reach me **justin@justin-dev.de**
 
 <p align="center">============================================================</p>
 
